@@ -7,4 +7,10 @@ Data Source=DESKTOP-SLD1NHV;Initial Catalog=college;Integrated Security=True;Enc
 Data Source=DESKTOP-SLD1NHV;Initial Catalog=college;Integrated Security=True;Encrypt=False
 
 Data Source=DESKTOP-SLD1NHV;Initial Catalog=college;Integrated Security=True;Encrypt=FalseData Source=DESKTOP-SLD1NHV;Initial Catalog=college;Integrated Security=True;Encrypt=False
+Data Source=DESKTOP-SLD1NHV;Initial Catalog=college;Integrated Security=True;Encrypt=False3
+
+
+
+Data Source=DESKTOP-SLD1NHV;Initial Catalog=college;Integrated Security=True;Encrypt=False
+Data Source=DESKTOP-SLD1NHV;Initial Catalog=college;Integrated Security=True;Encrypt=False
 Data Source=DESKTOP-SLD1NHV;Initial Catalog=college;Integrated Security=True;Encrypt=False
